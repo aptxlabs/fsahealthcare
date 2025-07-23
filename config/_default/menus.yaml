@@ -29,8 +29,8 @@ footer:
     url: "/#hero"
     weight: 1
 
-  - name: "How we work"
-    url: "/#"
+  - name: "Director's Message"
+    url: "/directors-message/"
     weight: 2
 
   - name: "Our team"
