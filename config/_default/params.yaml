@@ -11,10 +11,9 @@ favicons:
   faviconColor: "#000000"
 
 social:
-  dribbble: "#"
-  instagram: "#"
-  facebook: "#"
-  twitter: "#"
+  linkedin: "http://linkedin.com/company/fsa-healthcare-llc/"
+  facebook: "https://facebook.com/"
+  twitter: "https://x.com/fsa_healthcare"
 
 location:
   - "🇦🇪 Shams Business Center, Al Messaned, Sharjah, UAE"
