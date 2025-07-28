@@ -20,11 +20,20 @@ Our portfolio includes branded and generic formulations, APIs, and nutraceutical
 - Build sustainable partnerships in global markets
 - Ensure compliance, affordability, and timely delivery
 
-
-
-Core Activities
+## Core Activities
 - Pharmaceutical Export & Trade
 - Regulatory Affairs & Market Authorization
 - Third-Party & Contract Manufacturing
 - Licensing & Strategic Distribution
 - Brand Development & Marketing Support
+
+## Global Reach
+- GCC: UAE, Saudi Arabia, Oman, Kuwait, Bahrain, Qatar
+- Africa: Ghana, Nigeria, Kenya, Ethiopia
+- Southeast Asia
+- CIS Countries
+- Latin America (via local partners)
+
+## Quality & Compliance
+All products are sourced from WHO-GMP, ISO, USFDA, and EMA-certified facilities, ensuring strict
+Regulatory and quality standards.

@@ -142,12 +142,15 @@
     "ids": [
       "company-mission",
       "company-vision",
+      "core-activities",
+      "global-reach",
       "hero",
       "mr-aslam-khan",
       "mr-sameer-pervaz",
       "mr-sayed-furkhan-sadiq",
       "navbarContent",
-      "portfolio"
+      "portfolio",
+      "quality--compliance"
     ]
   }
 }
