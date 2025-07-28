@@ -4,4 +4,4 @@ title: "Join Us As Our Valued Partner"
 image: "images/services-web-development.png"
 button:
   label: "Contact Us"
-  link: "#"
+  link: "/contact-us/"

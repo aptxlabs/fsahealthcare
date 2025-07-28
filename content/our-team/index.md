@@ -3,7 +3,7 @@ title: "Our Team"  # ← typographic apostrophe
 date: 2025-07-22T16:35:12Z
 ---
 
-**Mr. Aslam Khan**  
+## Mr. Aslam Khan
 *Founder & Director, FSA Healthcare LLC and FSA Pharma LLP*  
 
 Welcome to FSA Healthcare LLC and FSA Pharma LLP  
@@ -22,7 +22,7 @@ Warm regards,
 
 ---
 
-**Mr. Sayed Furkhan Sadiq,**
+## Mr. Sayed Furkhan Sadiq
 
 *Director is B Pharm and MBA in Marketing. He has More than 16 years of senior level managerial experience in marketing and administration*
 
@@ -40,3 +40,7 @@ FSA HEALTHCARE LLP
 
 *Founder Director*
 *FSA HEALTHCARE  Group*
+
+---
+
+## Mr. Sameer Pervaz
