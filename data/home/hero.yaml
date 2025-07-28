@@ -4,8 +4,8 @@ title: "Better **Health** Everyday"
 text: "Established in 2025, FSA is dedicated to providing top-notch healthcare solutions. Our mission is to enhance the quality of life through innovative health services and products."
 
 buttons:
-  - label: "How we work"
-    link: "#"
+  - label: "About Us"
+    link: "/about-us/"
 
   - label: "Let's talk"
     link: ""

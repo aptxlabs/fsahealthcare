@@ -1,18 +1,18 @@
 main:
   - name: "Home"
-    url: "/#hero"
+    url: "/"
     weight: 1
 
-  - name: "Director's Message"
-    url: "/directors-message/"
+  - name: "About Us"
+    url: "/about-us/"
     weight: 2
 
-  - name: "Our team"
-    url: "/#"
+  - name: "Our Team"
+    url: "/our-team/"
     weight: 3
 
   - name: "Pricing"
-    url: "/#"
+    url: "/"
     weight: 4
 
   - name: "Blog"
@@ -29,12 +29,12 @@ footer:
     url: "/#hero"
     weight: 1
 
-  - name: "Director's Message"
-    url: "/directors-message/"
+  - name: "About Us"
+    url: "/about-us/"
     weight: 2
 
-  - name: "Our team"
-    url: "/#"
+  - name: "Our Team"
+    url: "/our-team/"
     weight: 3
 
   - name: "Pricing"

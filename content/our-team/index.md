@@ -1,5 +1,5 @@
 ---
-title: "Director’s Message"  # ← typographic apostrophe
+title: "Our Team"  # ← typographic apostrophe
 date: 2025-07-22T16:35:12Z
 ---
 
@@ -19,3 +19,24 @@ As we move forward, FSA Healthcare and FSA Pharma will continue to invest in peo
 Warm regards,  
 **Aslam Khan**  
 *Director, FSA Healthcare LLC and FSA Pharma LLP*
+
+---
+
+**Mr. Sayed Furkhan Sadiq,**
+
+*Director is B Pharm and MBA in Marketing. He has More than 16 years of senior level managerial experience in marketing and administration*
+
+At FSA HEALTHCARE our mission is rooted in a deep commitment to advancing healthcare and improving lives. As a pharmaceutical company, we recognize our critical role in delivering high-quality, affordable, and innovative medicines to people around the world. With a strong focus on research, ethics, and excellence, we strive to be a trusted partner in the global healthcare ecosystem.
+
+Our journey has been defined by our passion for science, dedication to compliance, and a relentless pursuit of quality. Every product we develop reflects our promise of safety and efficacy, backed by state-of-the-art technology and a highly skilled team.
+
+We are proud to serve not just as exporter, but as contributors to the well-being of communities. As we move forward, our vision remains clear: to lead with integrity, grow with purpose, and continue making a positive impact on patients’ lives.
+
+Thank you for trusting 
+FSA HEALTHCARE  LLC UAE
+FSA HEALTHCARE LLP
+
+**Sayed Furkhan Sadiq**
+
+*Founder Director*
+*FSA HEALTHCARE  Group*
