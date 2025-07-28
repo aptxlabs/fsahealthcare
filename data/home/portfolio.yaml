@@ -4,7 +4,7 @@ items:
   - image: "images/medicine.jpg"
     pretitle: "Pharmaceutical Products"
     title: "Affordable, High-Quality Medicines and APIs"
-    text: "We offer a wide range of pharmaceutical products, including branded and generic medicines, Active Pharmaceutical Ingredients (APIs), and nutraceuticals. Manufactured through our trusted partners in India, our products meet global quality standards and serve vital healthcare segments such as antibiotics, analgesics, anti-inflammatories, antiparasitics, and vitamins—all at affordable prices."
+    text: "We offer a wide range of pharmaceutical products, including branded and generic medicines, Finished Dose Formulation, Active Pharmaceutical Ingredients (APIs), and nutraceuticals. Manufactured through our trusted partners in India, our products meet global quality standards and serve vital healthcare segments such as antibiotics, analgesics, anti-inflammatories, antiparasitics, and vitamins—all at affordable prices."
 
     buttons: 
       - label: "About Us"
