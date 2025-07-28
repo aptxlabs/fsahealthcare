@@ -5,9 +5,9 @@ text: "Established in 2025, FSA is dedicated to providing top-notch healthcare s
 
 buttons:
   - label: "About Us"
-    link: "/about-us/"
+    url: "/about-us/"
 
   - label: "Let's talk"
-    link: ""
+    url: ""
 
 image: "images/hero-image.png"
