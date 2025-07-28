@@ -32,13 +32,12 @@ Our journey has been defined by our passion for science, dedication to complianc
 
 We are proud to serve not just as exporter, but as contributors to the well-being of communities. As we move forward, our vision remains clear: to lead with integrity, grow with purpose, and continue making a positive impact on patients’ lives.
 
-Thank you for trusting 
-FSA HEALTHCARE  LLC UAE
-FSA HEALTHCARE LLP
+Thank you for trusting us.  
+FSA HEALTHCARE LLC UAE  
+FSA PHARMA LLP  
 
-**Sayed Furkhan Sadiq**
-
-*Founder Director*
+**Sayed Furkhan Sadiq**  
+*Founder Director*  
 *FSA HEALTHCARE  Group*
 
 ---
