@@ -1,7 +1,7 @@
 enable: true
 
 title: "Join Us As Our Valued Partner"
-image: "images/services-web-development.png"
+image: "images/join-us.jpg"
 button:
   label: "Contact Us"
   link: "/contact-us/"

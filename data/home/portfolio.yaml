@@ -1,38 +1,11 @@
 enable: true
 
 items:
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  - image: "images/medicine.jpg"
+    pretitle: "Pharmaceutical Products"
+    title: "Affordable, High-Quality Medicines and APIs"
+    text: "We offer a wide range of pharmaceutical products, including branded and generic medicines, Active Pharmaceutical Ingredients (APIs), and nutraceuticals. Manufactured through our trusted partners in India, our products meet global quality standards and serve vital healthcare segments such as antibiotics, analgesics, anti-inflammatories, antiparasitics, and vitamins—all at affordable prices."
 
     buttons: 
-      - label: "See live"
-        link: "#"
-
-      - label: "Read more"
-        link: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        link: "#"
-
-      - label: "Read more"
-        link: "#"
-
-  - image: "images/portfolio-ecommerce.png"
-    pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
-    buttons: 
-      - label: "See live"
-        link: "#"
-
-      - label: "Read more"
-        link: "#"
+      - label: "About Us"
+        link: "/about-us/"
