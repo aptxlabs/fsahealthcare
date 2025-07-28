@@ -11,22 +11,18 @@ main:
     url: "/our-team/"
     weight: 3
 
-  - name: "Pricing"
-    url: "/"
+  - name: "Blog"
+    url: "/blog/"
     weight: 4
 
-  - name: "Blog"
-    url: "/blog"
-    weight: 5
-
 buttons:
-  - name: "Book a call"
-    url: "/#"
+  - name: "Contact Us"
+    url: "/contact-us/"
     weight: 5
 
 footer:
   - name: "Home"
-    url: "/#hero"
+    url: "/"
     weight: 1
 
   - name: "About Us"
@@ -37,10 +33,6 @@ footer:
     url: "/our-team/"
     weight: 3
 
-  - name: "Pricing"
-    url: "/#"
-    weight: 4
-
   - name: "Blog"
-    url: "/blog"
-    weight: 5
+    url: "/blog/"
+    weight: 4

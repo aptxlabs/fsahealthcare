@@ -7,7 +7,7 @@ buttons:
   - label: "About Us"
     url: "/about-us/"
 
-  - label: "Let's talk"
-    url: ""
+  - label: "Contact Us"
+    url: "/contact-us/"
 
 image: "images/hero-image.png"

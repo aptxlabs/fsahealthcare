@@ -3,5 +3,5 @@ enable: true
 title: "Join Us As Our Valued Partner"
 image: "images/services-web-development.png"
 button:
-  label: "Let's talk"
+  label: "Contact Us"
   link: "#"
