@@ -1,25 +1,25 @@
 enable: true
 
-title: "Our main services"
+title: "Our Team"
 text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
 cards:
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "Aslam Khan"
+    text: "With over two decades of experience in healthcare, Aslam leads our team with a vision for innovation and excellence. His expertise in healthcare management ensures that FSA remains at the forefront of the industry."
     button:
       label: "Learn more"
       link: "#"
 
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "Furkhan Sayed"
+    text: "With fifteen years of experience in pharmaceuticals, Furkhan brings a wealth of knowledge to FSA. His commitment to quality and patient care drives our mission forward."
     button:
       label: "Learn more"
       link: "#"
 
   - image: "images/services-web-development.png"
-    title: "Web development"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+    title: "Sameer Pervaz"
+    text: "With two decades of experience in business management, Sameer is instrumental in forging strategic partnerships and expanding FSA's reach. His leadership ensures that we remain a trusted name in healthcare."
     button:
       label: "Learn more"
       link: "#"
