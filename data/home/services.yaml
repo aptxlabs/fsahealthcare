@@ -4,22 +4,22 @@ title: "Our Team"
 text: "At FSA, our leadership team combines decades of experience across healthcare, pharmaceuticals, and business management. Their shared vision, commitment to quality, and global expertise drive our success and continuous growth in the pharmaceutical industry."
 cards:
   - image: "images/services-web-development.png"
-    title: "Aslam Khan"
+    title: "Mr. Aslam Khan"
     text: "With over two decades of experience in healthcare, Aslam leads our team with a vision for innovation and excellence. His expertise in healthcare management ensures that FSA remains at the forefront of the industry."
     button:
       label: "Learn more"
       link: "/our-team/#mr-aslam-khan"
 
   - image: "images/services-web-development.png"
-    title: "Sayed Furkhan Sadiq"
+    title: "Mr. Sayed Furkhan Sadiq"
     text: "With fifteen years of experience in pharmaceuticals, Furkhan brings a wealth of knowledge to FSA. His commitment to quality and patient care drives our mission forward."
     button:
       label: "Learn more"
       link: "/our-team/#mr-sayed-furkhan-sadiq"
 
   - image: "images/services-web-development.png"
-    title: "Sameer Pervaz"
+    title: "Mr. Shaikh Sameer Pervaz"
     text: "With two decades of experience in business management, Sameer is instrumental in forging strategic partnerships and expanding FSA's reach. His leadership ensures that we remain a trusted name in healthcare."
     button:
       label: "Learn more"
-      link: "/our-team/#mr-sameer-pervaz"
+      link: "/our-team/#mr-shaikh-sameer-pervaz"

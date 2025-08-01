@@ -42,4 +42,27 @@ FSA PHARMA LLP
 
 ---
 
-## Mr. Sameer Pervaz
+## Mr. Shaikh Sameer Pervaz
+
+B.Sc (Microbiology), MBA (Marketing)  
+*GENERAL MANAGER*  
+
+*General Manager’s Message*:  
+
+Mr. Sameer Pervaz, our esteemed General Manager, grew up in a environment where he developed a strong connection to pharmaceutical field from an early age. Fascinated by the traditional methods his friends had used for generations, he decided to build on this legacy by pursuing formal education in Science.
+
+To further his vision of modernizing Indian Pharmaceutical , Mr. Sameer Pervaz earned a Master’s Degree in Business Administration from MGM’s Institute of Management.
+
+His goal was clear: to merge the time-tested practices of traditional business with cutting-edge technology.
+
+With over 18 years of experience in the Business, Mr. Sameer Pervaz has dedicated his career to ensuring the highest standards in production, preservation, quality control, and marketing. His journey, enriched by both domestic and international exposure, has equipped him with invaluable insights that he now brings to his own venture.
+
+Despite opportunities abroad, his deep sense of patriotism and commitment to India’s pharmaceutical led him back to his homeland. With a desire to uplift the pharma community, he partnered with Mr. Aslam Khan and Mr. Sayed Furkhan to establish FSA Healthcare LLC in UAE and FSA pharma LLP in India.
+
+Today, he works tirelessly to fuse innovation with tradition, ensuring a prosperous future for Indian pharmaceutical and the community who are its backbone.
+
+Regards,  
+Shaikh Sameer Pervaz  
+*GENERAL MANAGER*  
+FSA Healthcare LLC, UAE  
+FSA Pharma LLP, India  
