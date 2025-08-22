@@ -5,7 +5,7 @@ date: 2025-07-22T16:35:12Z
 
 The company provides quality products in affordable price through our associate manufacturer from India. 
 
-Initially company entered in the vital health care segments such as Analgesics/Anti-pyretic, Anti-inflammatory, Anti-parasitic, Anti-biotic Vitamin drugs and all Pharma related services under one roof.
+Initially the company entered in the vital health care segments such as Analgesics/Anti-pyretic, Anti-inflammatory, Anti-parasitic, Anti-biotic Vitamin drugs and all Pharma related services under one roof.
 
 Our aim is to established as quality exporters of pharmaceuticals and surgical material provider our competent technical assistance to the society across the global context
 
