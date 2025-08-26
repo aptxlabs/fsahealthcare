@@ -7,9 +7,9 @@ The company provides quality products in affordable price through our associate 
 
 Initially the company entered in the vital health care segments such as Analgesics/Anti-pyretic, Anti-inflammatory, Anti-parasitic, Anti-biotic Vitamin drugs and all Pharma related services under one roof.
 
-Our aim is to established as quality exporters of pharmaceuticals and surgical material provider our competent technical assistance to the society across the global context
+Our aim is to established as quality exporters of pharmaceuticals and surgical material provider our competent technical assistance to the society across the global context.
 
-Our portfolio includes branded and generic formulations, APIs, and nutraceuticals and all Pharma related services. We are committed to global healthcare advancement through reliable logistics, regulatory support, and adherence to international standards."
+Our portfolio includes branded and generic formulations, APIs, and nutraceuticals and all Pharma related services. We are committed to global healthcare advancement through reliable logistics, regulatory support, and adherence to international standards.
 
 ## Company Vision
 "To be a globally recognized pharmaceutical and surgical exporter known for ethical standards, operational excellence, and life-saving solutions."
