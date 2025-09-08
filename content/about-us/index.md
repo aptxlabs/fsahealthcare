@@ -12,10 +12,10 @@ Our aim is to established as quality exporters of pharmaceuticals and surgical m
 Our portfolio includes branded and generic formulations, APIs, and nutraceuticals and all Pharma related services. We are committed to global healthcare advancement through reliable logistics, regulatory support, and adherence to international standards.
 
 ## Company Vision
-"To be a globally recognized pharmaceutical and surgical exporter known for ethical standards, operational excellence, and life-saving solutions."
+To be a globally recognized pharmaceutical and surgical exporter known for ethical standards, operational excellence, and life-saving solutions.
 
 ## Company Mission 
-"To bridge global healthcare gaps by providing reliable access to certified pharmaceutical products with a focus on quality, compliance, and customer satisfaction."
+To bridge global healthcare gaps by providing reliable access to certified pharmaceutical products with a focus on quality, compliance, and customer satisfaction.
 - Deliver world-class pharmaceutical products that meet international standards
 - Build sustainable partnerships in global markets
 - Ensure compliance, affordability, and timely delivery
