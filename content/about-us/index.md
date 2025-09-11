@@ -3,7 +3,7 @@ title: "About Us"  # ← typographic apostrophe
 date: 2025-07-22T16:35:12Z
 ---
 
-The company provides quality products in affordable price through our associate manufacturer from India. 
+The company provides quality products in affordable prices through our associate manufacturer from India. 
 
 Initially the company entered in the vital health care segments such as Analgesics/Anti-pyretic, Anti-inflammatory, Anti-parasitic, Anti-biotic Vitamin drugs and all Pharma related services under one roof.
 
@@ -35,5 +35,4 @@ To bridge global healthcare gaps by providing reliable access to certified pharm
 - Latin America (via local partners)
 
 ## Quality & Compliance
-All products are sourced from WHO-GMP, ISO, USFDA, and EMA-certified facilities, ensuring strict
-Regulatory and quality standards.
+All products are sourced from WHO-GMP, ISO, USFDA, and EMA-certified facilities, ensuring strict Regulatory and quality standards.
